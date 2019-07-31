@@ -28,10 +28,7 @@ VERSION = None
 REQUIRED = [
     # General requirements. See requirements.txt for latest
     # tested versioning.
-    'PyMySQL>=0.9',
-    'python-rapidjson',
     'requests>=2.0.0',
-    'SQLAlchemy>=1.2.0',
 ]
 
 EXTRAS = { }

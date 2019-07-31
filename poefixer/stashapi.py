@@ -13,8 +13,7 @@ import datetime
 import requests
 import requests.packages.urllib3.util.retry as urllib_retry
 import requests.adapters as requests_adapters
-import rapidjson as json
-
+import json
 
 __author__ = "Aaron Sherman <ajs@ajs.com>"
 __copyright__ = "Copyright 2018, Aaron Sherman"
